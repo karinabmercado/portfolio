@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio frontend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinabmercado/portfolio.git"
+  },
+  "author": "Karina Mercado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karinabmercado/portfolio/issues"
+  },
+  "homepage": "https://github.com/karinabmercado/portfolio#readme"
+}
